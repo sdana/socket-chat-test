@@ -1,0 +1,277 @@
+{
+  "users": [
+    {
+      "name": "Evan Lusky",
+      "password": "password",
+      "email": "ewlusky@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Second Person",
+      "password": "password",
+      "email": "person@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "phil",
+      "email": "phil@phil.net",
+      "id": 3
+    },
+    {
+      "name": "Seth Dana",
+      "email": "seth.dana@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "newUser",
+      "email": "new@email.com",
+      "id": 5
+    },
+    {
+      "name": "test1",
+      "email": "test1@test.com",
+      "id": 6
+    },
+    {
+      "name": "test12",
+      "email": "test12@gmail.com",
+      "id": 7
+    },
+    {
+      "name": "YourMom",
+      "email": "yourmom@thebomb.com",
+      "id": 8
+    },
+    {
+      "name": "test user",
+      "email": "test@test.com",
+      "id": 9
+    }
+  ],
+  "friends": [
+    {
+      "userId": "1",
+      "yourId": "2",
+      "id": 30
+    },
+    {
+      "userId": "1",
+      "yourId": "3",
+      "id": 30
+    },
+    {
+      "userId": "2",
+      "yourId": "1",
+      "id": 31
+    }
+  ],
+  "messages": [
+    {
+      "userId": "1",
+      "message": "Butts",
+      "timeStamp": "2018-07-20T16:03:40.763Z",
+      "id": 1
+    },
+    {
+      "userId": "4",
+      "message": "etst",
+      "timeStamp": "2018-07-23T19:14:28.801Z",
+      "id": 2
+    },
+    {
+      "userId": "4",
+      "message": "uuihuih",
+      "timeStamp": "2018-07-23T19:18:08.920Z",
+      "id": 3
+    },
+    {
+      "userId": "4",
+      "message": "aiejfoaije",
+      "timeStamp": "2018-07-23T19:18:21.194Z",
+      "id": 4
+    },
+    {
+      "userId": "4",
+      "message": "aefaewf",
+      "timeStamp": "2018-07-23T19:19:51.877Z",
+      "id": 5
+    },
+    {
+      "userId": "4",
+      "message": "iuhiuhuih",
+      "timeStamp": "2018-07-23T19:23:55.893Z",
+      "id": 6
+    },
+    {
+      "userId": "1",
+      "message": "test",
+      "timeStamp": "2018-07-23T19:24:43.471Z",
+      "id": 7
+    },
+    {
+      "userId": "9",
+      "message": "another test",
+      "timeStamp": "2018-07-23T19:25:43.673Z",
+      "id": 8
+    },
+    {
+      "userId": "1",
+      "message": "this is actually working!",
+      "timeStamp": "2018-07-23T19:26:30.104Z",
+      "id": 9
+    }
+  ],
+  "news": [
+    {
+      "userId": "1",
+      "title": "Evan's News 4",
+      "url": "www.ewlusky.com",
+      "synopsis": "cubes",
+      "timestamp": "2014-07-18T19:47:49.622Z",
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "title": "Second's News 3",
+      "url": "www.sldkf.com",
+      "synopsis": "some stuff happend",
+      "timestamp": "2015-07-18T19:47:49.622Z",
+      "id": 2
+    },
+    {
+      "userId": "1",
+      "title": "new time test 2",
+      "url": "kdididi",
+      "synopsis": "tirm eoi",
+      "timestamp": "2016-07-18T19:47:49.622Z",
+      "id": 3
+    },
+    {
+      "userId": "4",
+      "title": "Newest seth",
+      "url": "hi.com",
+      "synopsis": "hi",
+      "timestamp": "2018-07-18T19:47:49.622Z",
+      "id": 5
+    },
+    {
+      "userId": "4",
+      "title": "iuyiug",
+      "url": "kjgkgg",
+      "synopsis": "yjgugug",
+      "timestamp": "2018-07-20T13:51:07.519Z",
+      "id": 6
+    },
+    {
+      "userId": "8",
+      "title": "Today I Shit my Pants",
+      "url": "www.poopy.com",
+      "synopsis": "In my Pants",
+      "timestamp": "2018-07-20T15:06:46.873Z",
+      "id": 7
+    },
+    {
+      "userId": "4",
+      "title": "aoejfaejioj",
+      "url": "aiowejgaoiejg",
+      "synopsis": "oaisejfioaegj",
+      "timestamp": "2018-07-20T16:14:47.651Z",
+      "id": 9
+    }
+  ],
+  "events": [
+    {
+      "userId": "1",
+      "name": "Evan's Event 2",
+      "location": "NSS",
+      "date": "2018-07-10T19:30",
+      "id": 1
+    },
+    {
+      "userId": "2",
+      "name": "Second's event edited again",
+      "location": "Home",
+      "date": "2018-07-10T20:30",
+      "id": 11
+    },
+    {
+      "userId": "4",
+      "name": "test event",
+      "location": "fuck yeah",
+      "date": "2018-07-26",
+      "id": 12
+    },
+    {
+      "userId": "4",
+      "name": "another event",
+      "location": "ajeoiajeg",
+      "date": "2018-07-26",
+      "id": 13
+    },
+    {
+      "userId": "4",
+      "name": "aoieja",
+      "location": "oiajegioajeg",
+      "date": "2018-07-25",
+      "id": 14
+    }
+  ],
+  "tasks": [
+    {
+      "userId": "1",
+      "task": "Evan's task",
+      "date": "2018-07-16T01:23",
+      "completed": "false",
+      "id": 21
+    },
+    {
+      "userId": "4",
+      "description": "",
+      "date": "",
+      "completed": true,
+      "id": 22
+    },
+    {
+      "userId": "4",
+      "description": "test task",
+      "date": "2018-07-21",
+      "completed": false,
+      "id": 23
+    },
+    {
+      "userId": "4",
+      "description": "efwefef",
+      "date": "2018-07-26",
+      "completed": false,
+      "id": 24
+    },
+    {
+      "userId": "4",
+      "description": "eFEweewg",
+      "date": "2018-07-25",
+      "completed": false,
+      "id": 25
+    },
+    {
+      "userId": "4",
+      "description": "EFEfEE",
+      "date": "2018-07-28",
+      "completed": false,
+      "id": 26
+    },
+    {
+      "userId": "8",
+      "description": "Clean Pants",
+      "date": "2018-07-21",
+      "completed": false,
+      "id": 27
+    },
+    {
+      "userId": "4",
+      "description": "this task",
+      "date": "2018-07-24",
+      "completed": false,
+      "id": 28
+    }
+  ]
+}
